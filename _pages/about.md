@@ -33,4 +33,13 @@ Contact: lisheng(dot)kuang(at)irisa(dot)ac(dot)fr
 * see the link here [link](http://...)
 
 ## Visitors
-<div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5s2tz6kw2w2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div>
+<!--- <div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5s2tz6kw2w2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div> -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H8KEBJGY89"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H8KEBJGY89');
+</script>
