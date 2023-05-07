@@ -19,9 +19,9 @@ Rennes, France.
 I got my Master degree from Harbin Institute of Technology, 2017, Shenzhen, China. 
 After that, from 2017.1, I worked at Huawei Technologies till 2019.8, 
 later on, I started the adventure as a research fellow at IIT, Genova, Italy, advised by Dr. Ferdinando Cannella. 
-From 2020.3, I moved to Rennes and joined Rainbow Team, as a Ph.D. student, under the supervision of Dr. [Paolo Robuffo Giordano] (https://team.inria.fr/rainbow/fr/team/prg/) and Dr. [Claudio Pacchierotti] (https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/).
+From 2020.3, I moved to Rennes and joined Rainbow Team, as a Ph.D. student, under the supervision of Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/fr/team/prg/) and Dr. [Claudio Pacchierotti](https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/).
 
-# [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), Faculty of Mechanical, Maritime and Materials Engineering (3mE), TU Delft
+ [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), Faculty of Mechanical, Maritime and Materials Engineering (3mE), TU Delft
 
 Contact: lisheng(dot)kuang(at)irisa(dot)ac(dot)fr
 
