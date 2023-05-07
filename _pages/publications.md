@@ -4,13 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+This page compiles all my publications
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For a more up-to-date list, see my [google scholar](https://scholar.google.com/citations?user=CEAcl4YAAAAJ&hl=en)
+## 2022
 
-{% include base_path %}
+[J] **Name**, name, name2, title
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[C] **Name**, name, name2, title
+
+[PhD Thesis] **Name**, name, name2, title
+
+## 2021
