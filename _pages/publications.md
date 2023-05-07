@@ -21,7 +21,7 @@ For a more up-to-date list, see my [google scholar](https://scholar.google.com/c
 
 [PhD Thesis] **Name**, name, name2, title
 
-## 2023
+## 2022
 
 [C] **L. Kuang**, M. Aggravi, P. Robuffo Giordano. Wearable cutaneous device for applying position/location haptic feedback in navigation applications. Proc. IEEE Haptics Symposium (HAPTICS), Santa Barbara, USA, 2022.
 
