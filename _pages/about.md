@@ -28,6 +28,7 @@ Contact: lisheng(dot)kuang(at)irisa(dot)ac(dot)fr
 
 
 # News
+* check this https://tommasoproietti-robotics.github.io/#res 
 * I'm going to defend my Ph.D. in the end of June, 2023
 * Our paper titled 'Haptic Mushroom...' has been acepted by World Haptic Conference 2023, we ([Francescso Chinello](https://pure.au.dk/portal/en/persons/id(accad1e3-5976-4e97-80aa-660e721126bd).html)) will present it in the conference, in July, Delft, the Netherlands. Come to try our Haptic Mushroom !
 * We submitted our Work inProgress to the World Haptic Conference 2023, presenting our work on a Hapti Spider, we will present during the conference with a poster.
