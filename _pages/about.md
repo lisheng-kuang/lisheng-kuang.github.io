@@ -25,7 +25,7 @@ Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
 
 # News
-* Lisheng is going to defend in the end of June, 2023
+* I'm going to defend my Ph.D. in the end of June, 2023
 * To add more...
 
 ## Visitors
