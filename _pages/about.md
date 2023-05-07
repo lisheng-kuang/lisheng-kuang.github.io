@@ -29,8 +29,8 @@ Contact: lisheng(dot)kuang(at)irisa(dot)ac(dot)fr
 
 # News
 * I'm going to defend my Ph.D. in the end of June, 2023
-* To add more...
-* see the link here [link](http://...)
+* Our paper titled 'Haptic Mushroom...' has been acepted by World Haptic Conference 2023, we ([Francescso Chinello](https://pure.au.dk/portal/en/persons/id(accad1e3-5976-4e97-80aa-660e721126bd).html)) will present it in the conference, in July, Delft, the Netherlands. Come to try our Haptic Mushroom !
+* We submitted our Work inProgress to the World Haptic Conference 2023, presenting our work on a Hapti Spider, we will present during the conference with a poster.
 
 ## Visitors
 <!--- <div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5s2tz6kw2w2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div> -->
