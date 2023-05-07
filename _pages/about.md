@@ -20,13 +20,14 @@ Visiting Researcher (by courtesy),
 
 [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), Faculty of Mechanical, Maritime and Materials Engineering (3mE), TU Delft
 
-Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
+Contact: lisheng(dot)kuang(at)irisa(dot)ac(dot)fr
 
 
 
 # News
 * I'm going to defend my Ph.D. in the end of June, 2023
 * To add more...
+* see the link here [link](http://...)
 
 ## Visitors
 <div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5s2tz6kw2w2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div>
