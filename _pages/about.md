@@ -34,7 +34,8 @@ Contact: lisheng(dot)kuang(at)irisa(dot)ac(dot)fr
 
 ## Visitors
 <!--- <div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5s2tz6kw2w2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div> -->
-<!-- Google tag (gtag.js) -->
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=58kke8vygs7&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<!-- Google tag (gtag.js) 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-H8KEBJGY89"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -43,3 +44,4 @@ Contact: lisheng(dot)kuang(at)irisa(dot)ac(dot)fr
 
   gtag('config', 'G-H8KEBJGY89');
 </script>
+-->
