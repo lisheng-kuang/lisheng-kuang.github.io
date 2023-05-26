@@ -9,7 +9,7 @@ This page compiles all my publications
 For a more up-to-date list, see my [google scholar](https://scholar.google.com/citations?user=CEAcl4YAAAAJ&hl=en)
 ## 2023
 
-[J] **L. Kuang**, M. Ferro, M. Malvezzi, D. Prattichizzo, P. Robuffo Giordano, F. Chinello, C. Pacchierotti. A Wearable Haptic Device for the Hand with Interchangeable End-Effectors. Accepted by <span style="color:blue"> ** IEEE Transactions on Haptics **</span>, 2023
+[J] **L. Kuang**, M. Ferro, M. Malvezzi, D. Prattichizzo, P. Robuffo Giordano, F. Chinello, C. Pacchierotti. A Wearable Haptic Device for the Hand with Interchangeable End-Effectors. Accepted by <span style="color:blue"> **IEEE Transactions on Haptics**</span>, 2023
 
 [J] **L. Kuang**, M. Malvezzi, M. Ferro, D. Prattichizzo, P. Robuffo Giordano, F. Chinello, C. Pacchierotti. A 4-DoF Wearable Hand Device for Haptic Rendering of Surfaces and Edges. Submitted to Elsevier Mechatronics, 2023
 
