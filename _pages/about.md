@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lisheng Kuang"
+title: "About me"
 excerpt: "Brief bio"
 author_profile: true
 redirect_from:
