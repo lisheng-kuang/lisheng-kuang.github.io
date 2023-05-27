@@ -10,13 +10,9 @@ redirect_from:
 
 <span style="color:red"> **I am looking for a postdoc position centered on the research on Wearable robots (Soft-exosuits, Exoskeletons, Prosthetics,...)**</span>.
 
-Ciao, I'm Lisheng Kuang, 
+Ciao, I'm Lisheng Kuang, I'm now a PhD student at [Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/), irisa, Rennes, France. 
 
-Current position: Ph.D. candicate at IRISA, Rainbow Team. 
-
-[Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/),
-University of Rennes,
-Rennes, France.
+My work during the PhD centers on the mechatronics design and control on wearable haptics/robots. In specific, I impelment the design, prototyping, testing, evauation and human subjects study on wearable assistive devices. 
 
 I got my Master degree from Harbin Institute of Technology, 2017, Shenzhen, China. 
 After that, from 2017.1, I worked at Huawei Technologies till 2019.8, 
