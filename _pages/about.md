@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. ir. Lisheng Kuang"
+title: "Lisheng Kuang"
 excerpt: "Brief bio"
 author_profile: true
 redirect_from:
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red"> **I am looking for a postdoc position centered on the research on Wearable robots (Exoskeletons, Prosthetics,...)**</span>.
+<span style="color:red"> **I am looking for a postdoc position centered on the research on Wearable robots (Soft-exosuits, Exoskeletons, Prosthetics,...)**</span>.
+
+Ciao, I'm Lisheng Kuang, 
 
 Current position: Ph.D. candicate at IRISA, Rainbow Team. 
 
