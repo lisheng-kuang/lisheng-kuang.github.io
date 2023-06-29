@@ -19,13 +19,12 @@ After that, from 2017.1, I worked at Huawei Technologies till 2019.8,
 later on, I started the adventure as a research fellow at IIT, Genova, Italy, advised by Dr. [Ferdinando Cannella](https://www.iit.it/people-details/-/people/ferdinando-cannella). 
 From 2020.3, I moved to Rennes and joined Rainbow Team, as a Ph.D. student, under the supervision of Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/fr/team/prg/) and Dr. [Claudio Pacchierotti](https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/).
 
- [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), Faculty of Mechanical, Maritime and Materials Engineering (3mE), TU Delft
-
 Contact: lisheng(dot)kuang(at)irisa(dot)ac(dot)fr
 
 
 
 # News
+* I successfully defend my PhD on June 23rd 2023, [video](https://youtube.com/live/rkTij_Y27F0)
 * check this https://tommasoproietti-robotics.github.io/#res 
 * I'm going to defend my Ph.D. in the end of June, 2023
 * Our paper titled 'Haptic Mushroom...' has been acepted by World Haptic Conference 2023, we ([Francescso Chinello](https://pure.au.dk/portal/en/persons/id(accad1e3-5976-4e97-80aa-660e721126bd).html)) will present it in the conference, in July, Delft, the Netherlands. Come to try our Haptic Mushroom !
