@@ -11,15 +11,15 @@ Ciao, I'm Lisheng Kuang (匡立生)
 
 <span style="color:red"> **I have just started my new position as a postdoctoral researcher at [Scuola Superiore Sant'Anna](https://www.santannapisa.it/en/institute/biorobotics/wearable-robotics-laboratory). I will be working on wearable robotics in the Wearable Robotics Laboratory)**</span>.
 
-, I'm now a PhD student at [Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/), irisa, Rennes, France. 
+I was a Ph.D. student at [Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/) 2020.0 ~ 2023.7, irisa, Rennes, France. 
 
 At the end of June 2023, I successfully defended my PhD, thesis title '[Ungrounded haptic interfaces for guidance and interaction rendering(https://theses.hal.science/tel-04208342/document)]'. [video](https://youtube.com/live/rkTij_Y27F0).
 Much appreciation to the Jury members:
 [Lorenzo Masia](https://www.lorenzomasia.com/)
 
-My work during the PhD centers on the mechatronics design and control on wearable haptics/robots. In specific, I impelment the design, prototyping, testing, evauation and human subjects study on wearable assistive devices. 
+My work during the PhD centers on the mechatronics design and control on wearable haptics/robots. In specific, I implement the design, prototyping, testing, evaluation, and human subjects study on wearable assistive devices. 
 
-I got my Master degree from Harbin Institute of Technology, 2017, Shenzhen, China. 
+I got my Master's degree from Harbin Institute of Technology, in 2017, Shenzhen, China. 
 After that, from 2017.1, I worked at Huawei Technologies till 2019.8, 
 later on, I started the adventure as a research fellow at IIT, Genova, Italy, advised by Dr. [Ferdinando Cannella](https://www.iit.it/people-details/-/people/ferdinando-cannella). 
 From 2020.3, I moved to Rennes and joined Rainbow Team, as a Ph.D. student, under the supervision of Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/fr/team/prg/) and Dr. [Claudio Pacchierotti](https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/).
@@ -29,6 +29,7 @@ Contact: lisheng(dot)kuang(at)irisa(dot)ac(dot)fr
 
 
 # News
+* I started my new position as a postdoctoral researcher at wearable robotics, [video](https://youtube.com/live/rkTij_Y27F0)
 * I successfully defend my PhD on June 23rd 2023, [video](https://youtube.com/live/rkTij_Y27F0)
 * Our recent work has been accepted by the IEEE Transactions on Haptics, it contributes to the family of encounter-type/palmar-based haptic interfaces, and to the concept of modular haptic devices. check the paper here: 'A Wearable Haptic Device for the Hand with Interchangeable End-Effectors' [paper](https://ieeexplore.ieee.org/document/10148827), [video](https://www.youtube.com/watch?v=1rs0s9UN2fI)
 * I'm going to defend my Ph.D. in the end of June, 2023
