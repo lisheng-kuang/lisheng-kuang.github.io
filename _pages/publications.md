@@ -13,7 +13,7 @@ For a more up-to-date list, see my [google scholar](https://scholar.google.com/c
 
 [J] **L. Kuang**, M. Malvezzi, M. Ferro, D. Prattichizzo, P. Robuffo Giordano, F. Chinello, C. Pacchierotti. A 4-DoF Wearable Hand Device for Haptic Rendering of Surfaces and Edges. Submitted to Elsevier <span style="color:blue">*Mechatronics*</span>, 2023
 
-[J] U. Radhakrishnan, **L. Kuang**, K. Koumaditis, F. Chinello, C. Pacchierotti. Haptic Feedback, Performance and Arousal: A Comparison Study in an Immersive VR Motor Skill Training Task. Submitted to <span style="color:blue">*IEEE Transactions on Haptics*</span>, 2023.
+[J] U. Radhakrishnan, **L. Kuang**, K. Koumaditis, F. Chinello, C. Pacchierotti. Haptic Feedback, Performance and Arousal: A Comparison Study in an Immersive VR Motor Skill Training Task. <span style="color:blue">*IEEE Transactions on Haptics*</span>, 2023.
 
 [J] E. Bouzbib, **L. Kuang**, P. Robuffo Giordano, A. L´ecuyer, C. Pacchierotti, Survey of Wearable Haptic Technologies for Navigation Guidance. Submitted to <span style="color:blue">*IEEE Transactions on Haptics*</span>, 2023.
 
