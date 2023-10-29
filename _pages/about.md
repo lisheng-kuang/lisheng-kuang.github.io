@@ -7,10 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Ciao, I'm Lisheng Kuang (匡立生)
 
-<span style="color:red"> **I am looking for a postdoc position centered on the research on Wearable robots (Soft-exosuits, Exoskeletons, Prosthetics,...)**</span>.
+<span style="color:red"> **I have just started my new position as a postdoctoral researcher at [Scuola Superiore Sant'Anna](https://www.santannapisa.it/en/institute/biorobotics/wearable-robotics-laboratory). I will be working on wearable robotics in the Wearable Robotics Laboratory)**</span>.
 
-Ciao, I'm Lisheng Kuang, I'm now a PhD student at [Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/), irisa, Rennes, France. 
+, I'm now a PhD student at [Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/), irisa, Rennes, France. 
+
+At the end of June 2023, I successfully defended my PhD, thesis title '[Ungrounded haptic interfaces for guidance and interaction rendering(https://theses.hal.science/tel-04208342/document)]'. [video](https://youtube.com/live/rkTij_Y27F0).
+Much appreciation to the Jury members:
+[Lorenzo Masia](https://www.lorenzomasia.com/)
 
 My work during the PhD centers on the mechatronics design and control on wearable haptics/robots. In specific, I impelment the design, prototyping, testing, evauation and human subjects study on wearable assistive devices. 
 
