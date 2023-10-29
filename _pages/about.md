@@ -11,7 +11,7 @@ Ciao, I'm Lisheng Kuang (匡立生)
 
 <span style="color:red"> **I have just started my new position as a postdoctoral researcher at [Scuola Superiore Sant'Anna](https://www.santannapisa.it/en/institute/biorobotics/wearable-robotics-laboratory). I will be working on wearable robotics in the Wearable Robotics Laboratory)**</span>.
 
-I was a Ph.D. student at [Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/) 2020.0 ~ 2023.7, irisa, Rennes, France. 
+I was a **Ph.D.** student at [Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/) 2020.0 ~ 2023.7, irisa, Rennes, France. 
 
 At the end of June 2023, I successfully defended my PhD, thesis title '[Ungrounded haptic interfaces for guidance and interaction rendering(https://theses.hal.science/tel-04208342/document)]'. [video](https://youtube.com/live/rkTij_Y27F0).
 Much appreciation to my supervisors and the Jury members:
@@ -23,7 +23,7 @@ Much appreciation to my supervisors and the Jury members:
 
 My work during the PhD centers on the mechatronics design and control on wearable haptics/robots. In specific, I implement the design, prototyping, testing, evaluation, and human subjects study on wearable assistive devices. 
 
-I got my Master's degree from Harbin Institute of Technology, in 2017, Shenzhen, China. 
+I got my **Master's degree** from Harbin Institute of Technology, in 2017, Shenzhen, China. 
 After that, from 2017.1, I worked at Huawei Technologies till 2019.8, 
 later on, I started the adventure as a research fellow at IIT, Genova, Italy, advised by Dr. [Ferdinando Cannella](https://www.iit.it/people-details/-/people/ferdinando-cannella). 
 From 2020.3, I moved to Rennes and joined Rainbow Team, as a Ph.D. student, under the supervision of Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/fr/team/prg/) and Dr. [Claudio Pacchierotti](https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/).
