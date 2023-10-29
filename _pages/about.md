@@ -14,8 +14,12 @@ Ciao, I'm Lisheng Kuang (匡立生)
 I was a Ph.D. student at [Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/) 2020.0 ~ 2023.7, irisa, Rennes, France. 
 
 At the end of June 2023, I successfully defended my PhD, thesis title '[Ungrounded haptic interfaces for guidance and interaction rendering(https://theses.hal.science/tel-04208342/document)]'. [video](https://youtube.com/live/rkTij_Y27F0).
-Much appreciation to the Jury members:
+Much appreciation to my supervisors and the Jury members:
+
 [Lorenzo Masia](https://www.lorenzomasia.com/)
+[Nathanaël Jarrassé](https://www.n-jarrasse.fr/)
+[Christine Chevallereau](https://scholar.google.com/citations?user=JzYkhbUAAAAJ&hl=en)
+[Marie Babel ](https://team.inria.fr/rainbow/team/marie-babel/)
 
 My work during the PhD centers on the mechatronics design and control on wearable haptics/robots. In specific, I implement the design, prototyping, testing, evaluation, and human subjects study on wearable assistive devices. 
 
