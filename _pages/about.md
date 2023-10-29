@@ -33,7 +33,7 @@ Contact: lisheng(dot)kuang(at)irisa(dot)ac(dot)fr
 
 
 # News
-* I started my new position as a postdoctoral researcher at wearable robotics, [video](https://youtube.com/live/rkTij_Y27F0)
+* I started my new position as a postdoctoral researcher at the wearable robotics Lab.
 * I successfully defend my PhD on June 23rd 2023, [video](https://youtube.com/live/rkTij_Y27F0)
 * Our recent work has been accepted by the IEEE Transactions on Haptics, it contributes to the family of encounter-type/palmar-based haptic interfaces, and to the concept of modular haptic devices. check the paper here: 'A Wearable Haptic Device for the Hand with Interchangeable End-Effectors' [paper](https://ieeexplore.ieee.org/document/10148827), [video](https://www.youtube.com/watch?v=1rs0s9UN2fI)
 * I'm going to defend my Ph.D. in the end of June, 2023
