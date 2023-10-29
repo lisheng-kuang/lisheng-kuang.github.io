@@ -19,7 +19,7 @@ For a more up-to-date list, see my [google scholar](https://scholar.google.com/c
 
 [C] **L. Kuang**, F. Chinello, P. Robuffo Giordano, M. Marchal, C. Pacchierotti. Haptic Mushroom: a 3-DoF shape-changing encounter-type haptic device with interchangeable end-effectors. <span style="color:blue">*Proc. IEEE World Haptics Conference*</span>, 2023.
 
-[PhD Thesis] **Name**, name, name2, title
+[PhD Thesis] Ungrounded haptic interfaces for guidance and interaction rendering [pdf](https://www.theses.fr/2023URENS017)
 
 ## 2022
 
