@@ -11,25 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, Nanjing Institute of Technology, 2014
+* M.S. in Control engineering, Harbin Institute of Technology, Shenzhen, 2014.9 ~ 2017.1
+  * Supervisor: Yunjinag Lou (楼云江)
+* Ph.D. in Wearable Haptics, University of Rennes, Irisa, 2020.3 ~ 2023.6
+  * [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/), [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/team/prg/)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019.8 ~ 2020.3: Research Fellow
+  * iit, Genova, Italy
+  * Duties included: Mechatronics design, control, and simulation on elastic robotic manipulator.
+  * Supervisor: [Ferdinando Cannella](https://www.iit.it/people-details/-/people/ferdinando-cannella)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018.1 ~ 2019.8: Software Engineer
+  * Huawei Technology (华为，松山湖)
+  * Duties included: Programming and implementation of embedded software system
   
 Skills
 ======
-* Skill 1
+* CAD
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
