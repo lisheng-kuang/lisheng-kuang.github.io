@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+[This website is under contruction]
 Ciao, I'm Lisheng Kuang (匡立生)
 
 Exciting news! 
