@@ -13,7 +13,7 @@ Exciting news!
 
 <span style="color:red"> **I have been granted the Postdoctoral Fellowships - Marie Skłodowska-Curie Actions (MSCA-PF), I will start this grant in the coming months. **</span>
 
-I have just started my new position as a postdoctoral researcher at [Scuola Superiore Sant'Anna](https://www.santannapisa.it/en/institute/biorobotics/wearable-robotics-laboratory). I will be working on wearable robotics in the Wearable Robotics Laboratory, since 2023. November.
+I am now a postdoctoral researcher at [Scuola Superiore Sant'Anna](https://www.santannapisa.it/en/institute/biorobotics/wearable-robotics-laboratory). I have been working on wearable robotics in the Wearable Robotics Laboratory, since 2023. November.
 
 I was a **Ph.D.** student at [Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/) 2020.0 ~ 2023.7, irisa, Rennes, France. 
 
