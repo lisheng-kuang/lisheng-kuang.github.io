@@ -31,9 +31,7 @@ Much appreciation to my supervisors and the Jury members:
 
 My work during the PhD centers on the mechatronics design and control on wearable haptics/robots. In specific, I implement the design, prototyping, testing, evaluation, and human subjects study on wearable assistive devices. 
 
-I got my **Master's degree** from Harbin Institute of Technology, in 2017, Shenzhen, China. 
-After that, from 2017.1, I worked at Huawei Technologies till 2019.8, 
-later on, I started the adventure as a research fellow at IIT, Genova, Italy, advised by Dr. [Ferdinando Cannella](https://www.iit.it/people-details/-/people/ferdinando-cannella). 
+In August 2019, I started the adventure as a research fellow at IIT, Genova, Italy, advised by Dr. [Ferdinando Cannella](https://www.iit.it/people-details/-/people/ferdinando-cannella). 
 From 2020.3, I moved to Rennes and joined Rainbow Team, as a Ph.D. student, under the supervision of Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/fr/team/prg/) and Dr. [Claudio Pacchierotti](https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/).
 
 Contact: lisheng(dot)kuang(at)irisa(dot)ac(dot)fr
