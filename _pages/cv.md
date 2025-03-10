@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Automation, Nanjing Institute of Technology, 2014
-* M.S. in Control engineering, Harbin Institute of Technology, Shenzhen, 2014.9 ~ 2017.1
-  * Supervisor: Yunjinag Lou (楼云江)
+<!--* B.S. in Automation, Nanjing Institute of Technology, 2014-->
+<!--* M.S. in Control engineering, Harbin Institute of Technology, Shenzhen, 2014.9 ~ 2017.1
+  * Supervisor: Yunjinag Lou (楼云江) -->
 * Ph.D. in Wearable Haptics, University of Rennes, Irisa, 2020.3 ~ 2023.6
   * [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/), [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/team/prg/)
 
@@ -24,10 +24,10 @@ Work experience
   * Duties included: Mechatronics design, control, and simulation on elastic robotic manipulator.
   * Supervisor: [Ferdinando Cannella](https://www.iit.it/people-details/-/people/ferdinando-cannella)
 
-* 2018.1 ~ 2019.8: Software Engineer
+<!--* 2018.1 ~ 2019.8: Software Engineer
   * Huawei Technology (华为，松山湖)
   * Duties included: Programming and implementation of embedded software system
-  
+  -->
 Skills
 ======
 * CAD
