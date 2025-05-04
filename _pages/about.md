@@ -11,11 +11,9 @@ redirect_from:
 Ciao, I'm Lisheng Kuang (匡立生)
 
 Exciting news! 
-2025
-<!--
-<span style="color:red"> I have been granted the Marie Skłodowska-Curie Actions - Postdoctoral Fellowships (MSCA-PF). I will start this grant in the coming months. </span>
-<!-->
-2024
+2025, <span style="color:red"> I have been granted the Marie Skłodowska-Curie Actions - Postdoctoral Fellowships (MSCA-PF). I will start this grant in the coming months. </span>
+
+
 
 I am now a postdoctoral researcher at [Scuola Superiore Sant'Anna](https://www.santannapisa.it/en/institute/biorobotics/wearable-robotics-laboratory). I have been working on wearable robotics in the Wearable Robotics Laboratory, since 2023. November.
 
