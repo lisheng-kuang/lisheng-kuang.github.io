@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 [This website is under construction]
+
 Ciao, I'm Lisheng Kuang (匡立生)
-
-Exciting news! 
-2025, <span style="color:red"> I have been granted the Marie Skłodowska-Curie Actions - Postdoctoral Fellowships (MSCA-PF).. </span>
-
-
 
 I am now a postdoctoral researcher at [Scuola Superiore Sant'Anna](https://www.santannapisa.it/en/institute/biorobotics/wearable-robotics-laboratory). I have been working on wearable robotics in the Wearable Robotics Laboratory, since 2023. November.
 
@@ -27,7 +23,7 @@ Much appreciation to my supervisors and the Jury members:
 [Christine Chevallereau](https://scholar.google.com/citations?user=JzYkhbUAAAAJ&hl=en),
 [Marie Babel ](https://team.inria.fr/rainbow/team/marie-babel/).
 
-My work during the PhD centers on the mechatronics design and control on wearable haptics/robots. In specific, I implement the design, prototyping, testing, evaluation, and human subjects study on wearable assistive devices. 
+My work during the PhD centers on the mechatronics design and control of wearable haptics/robots. In specific, I implement the design, prototyping, testing, evaluation, and human subjects study on wearable assistive devices. 
 
 In August 2019, I started the adventure as a research fellow at IIT, Genova, Italy, advised by Dr. [Ferdinando Cannella](https://www.iit.it/people-details/-/people/ferdinando-cannella). 
 From 2020.3, I moved to Rennes and joined Rainbow Team, as a Ph.D. student, under the supervision of Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/fr/team/prg/) and Dr. [Claudio Pacchierotti](https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/).
