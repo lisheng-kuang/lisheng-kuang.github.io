@@ -9,28 +9,11 @@ redirect_from:
 ---
 [This website is under construction]
 
-Ciao, I'm Lisheng Kuang (匡立生)
+I am currently a postdoctoral researcher at [Scuola Superiore Sant'Anna](https://www.santannapisa.it/en/institute/biorobotics/wearable-robotics-laboratory). Prior to this, I was a **Ph.D.** student at [Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/) at irisa, Rennes, France, where I achieved experience and knowledge of haptics, mainly focused on the systems design and human-centered study. I also had a short period visit at Aarhus University during my PhD. 
 
-I am now a postdoctoral researcher at [Scuola Superiore Sant'Anna](https://www.santannapisa.it/en/institute/biorobotics/wearable-robotics-laboratory). I have been working on wearable robotics in the Wearable Robotics Laboratory, since 2023. November.
-
-I was a **Ph.D.** student at [Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/) 2020.0 ~ 2023.7, irisa, Rennes, France. 
-
-At the end of June 2023, I successfully defended my PhD, thesis title '[Ungrounded haptic interfaces for guidance and interaction rendering(https://theses.hal.science/tel-04208342/document)]'. [video](https://youtube.com/live/rkTij_Y27F0).
-Much appreciation to my supervisors and the Jury members:
-
-[Lorenzo Masia](https://www.lorenzomasia.com/),
-[Nathanaël Jarrassé](https://www.n-jarrasse.fr/),
-[Christine Chevallereau](https://scholar.google.com/citations?user=JzYkhbUAAAAJ&hl=en),
-[Marie Babel ](https://team.inria.fr/rainbow/team/marie-babel/).
-
-My work during the PhD centers on the mechatronics design and control of wearable haptics/robots. In specific, I implement the design, prototyping, testing, evaluation, and human subjects study on wearable assistive devices. 
-
-In August 2019, I started the adventure as a research fellow at IIT, Genova, Italy, advised by Dr. [Ferdinando Cannella](https://www.iit.it/people-details/-/people/ferdinando-cannella). 
-From 2020.3, I moved to Rennes and joined Rainbow Team, as a Ph.D. student, under the supervision of Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/fr/team/prg/) and Dr. [Claudio Pacchierotti](https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/).
+My scientific expertise centers on the system design of haptic interfaces and exoskeletons, my main application domain is human-robot interaction, and in particular, virtual reality, mobility assistance and rehabilitation. My doctoral work explored adaptable and reconfigurable design on haptic devices and validated their effectiveness in vision-blind navigation, assistive devices, and remote/virtual touch sense regeneration. My postdoctoral work extends my expertise to biomechanics to study human ergonomics and apply it back to the design of bio-inspired devices that are capable of improving upper limb rehabilitation. For this, I design hand exoskeletons for motor training and develop feedback interfaces for upper limb prosthesis sensory restoration. I collaborated with researchers from healthcare departments in France, Denmark, and Italy, as well as industrial partners from France (Haption) and Germany (Ottobock). 
 
 Contact: lisheng(dot)kuang(at)irisa(dot)ac(dot)fr
-
-
 
 # News
 * I started my new position as a postdoctoral researcher at the wearable robotics Lab.
