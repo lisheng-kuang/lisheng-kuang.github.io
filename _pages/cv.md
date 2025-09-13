@@ -19,6 +19,11 @@ Education
 
 Work experience
 ======
+* 2023.10 ~ Present: Postdoc Research Fellow
+  * Scuola Superior Sant'Anna, Pisa, Italy
+  * Duties included: Design of upper-limb rehabilitation devices.
+  * Advisors: Nicola Vitiello, Simona Crea, Emilio Trigili
+
 * 2019.8 ~ 2020.3: Research Fellow
   * iit, Genova, Italy
   * Duties included: Mechatronics design, control, and simulation on elastic robotic manipulator.
@@ -28,6 +33,8 @@ Work experience
   * Huawei Technology (华为，松山湖)
   * Duties included: Programming and implementation of embedded software system
   -->
+
+ <!-- 
 Skills
 ======
 * CAD
