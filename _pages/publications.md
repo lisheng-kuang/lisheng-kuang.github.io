@@ -10,17 +10,17 @@ For a more up-to-date list, see my [google scholar](https://scholar.google.com/c
 
 ## 2025
 
-[C] Malvezzi, M., Kuang, L., Pacchierotti, C., & Chinello, F. (2025, September). Model-Based Analysis and Evaluation of an Origami Encounter-type Wearable Device. " <span style="color:blue">*TELEPRESENCE 2025-Second IEEE Conference on Telepresence*</span>. 2025.
+[C] Malvezzi, M., **Kuang, L**., Pacchierotti, C., & Chinello, F. (2025, September). Model-Based Analysis and Evaluation of an Origami Encounter-type Wearable Device. " <span style="color:blue">*TELEPRESENCE 2025-Second IEEE Conference on Telepresence*</span>. 2025.
 
-[J] Li, S., Shi, D., Lou, Y., Fu, C., Kuang, L., & Shi, L. (2025). Multi-Kernel Correntropy Smoother for 6D Foot Motion Tracking with Inertial Sensors. <span style="color:blue">*IEEE Transactions on Automation Science and Engineering (2025)*</span>. 
+[J] Li, S., Shi, D., Lou, Y., Fu, C., **Kuang, L**., & Shi, L. (2025). Multi-Kernel Correntropy Smoother for 6D Foot Motion Tracking with Inertial Sensors. <span style="color:blue">*IEEE Transactions on Automation Science and Engineering (2025)*</span>. 
 
 ## 2024
 
-[C] Capitani, S. L., Peperoni, E., Kuang, L., Fiumalbi, T., Baldoni, A., Dell'Agnello, F., ... & Crea, S. (2024, September). H-PhIEx A: A Compact SEA-Based Hand Exoskeleton with Active Metacarpophalangeal Joints.." 2024 10th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics <span style="color:blue">*(BioRob)*</span>. IEEE, 2024. 
+[C] Capitani, S. L., Peperoni, E., **Kuang, L**., Fiumalbi, T., Baldoni, A., Dell'Agnello, F., ... & Crea, S. (2024, September). H-PhIEx A: A Compact SEA-Based Hand Exoskeleton with Active Metacarpophalangeal Joints.." 2024 10th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics <span style="color:blue">*(BioRob)*</span>. IEEE, 2024. 
 
-[C] Kuang, L., Malvezzi, M., Prattichizzo, D., Giordano, P. R., Chinello, F., & Pacchierotti, C. (2024, June). "The hapticspider: a 7-dof wearable device for cutaneous interaction with the palm." <span style="color:blue">*International Conference on Human Haptic Sensing and Touch Enabled Computer Applications. Cham: Springer Nature Switzerland*</span>, 2024.
+[C] **Kuang, L**., Malvezzi, M., Prattichizzo, D., Giordano, P. R., Chinello, F., & Pacchierotti, C. (2024, June). "The hapticspider: a 7-dof wearable device for cutaneous interaction with the palm." <span style="color:blue">*International Conference on Human Haptic Sensing and Touch Enabled Computer Applications. Cham: Springer Nature Switzerland*</span>, 2024.
 
-[J] Kuang, L., Malvezzi, M., Ferro, M., Prattichizzo, D., Giordano, P. R., Chinello, F., & Pacchierotti, C. "A 4-DoF wearable hand device for haptic rendering of surfaces and edges." <span style="color:blue">*Mechatronics*</span> 99 (2024): 103173.
+[J] **Kuang, L**., Malvezzi, M., Ferro, M., Prattichizzo, D., Giordano, P. R., Chinello, F., & Pacchierotti, C. "A 4-DoF wearable hand device for haptic rendering of surfaces and edges." <span style="color:blue">*Mechatronics*</span> 99 (2024): 103173.
 
 ## 2023
 
