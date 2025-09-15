@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[This website is under construction]
 
 I am currently a postdoctoral researcher at [Scuola Superiore Sant'Anna](https://www.santannapisa.it/en/institute/biorobotics/wearable-robotics-laboratory). Prior to this, I was a **Ph.D.** student at [Rainbow Team](https://team.inria.fr/rainbow/fr/author/lkuang/) at irisa, Rennes, France, where I achieved experience and knowledge of haptics, mainly focused on the systems design and human-centered study. I also had a short period visit at Aarhus University during my PhD. 
 
