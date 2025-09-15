@@ -32,7 +32,7 @@ Work experience
   * Duties included: Programming and implementation of embedded software system
   -->
 
- <!-- 
+ <!--* 
 Skills
 ======
 * CAD
